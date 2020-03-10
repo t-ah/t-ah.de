@@ -1,0 +1,12 @@
+body {
+    max-width: 640px;
+    height: 100%;
+    font-family: Courier, "Lucida Console", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #eeeeee;
+        background: #222831;
+    }
+}
